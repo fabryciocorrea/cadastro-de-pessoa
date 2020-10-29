@@ -40,6 +40,7 @@ public class Main {
 
 
         fabrycio.setNome ("Fabrycio");
+        
         fabrycio.setDataDeNascimento(LocalDate.of(1998,8,3));
         eduarda.setNome("Eduarda");
         eduarda.setDataDeNascimento(LocalDate.of(1985,10,12));
